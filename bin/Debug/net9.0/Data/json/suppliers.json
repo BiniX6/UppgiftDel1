@@ -1,0 +1,38 @@
+[
+  {
+    "supplierName": "Arla",
+    "supplierAdress": "Välanvägen 75",
+    "supplierCity": "Malmö",
+    "supplierPostalcode": "21154",
+    "contactperson": "Leo Turic",
+    "phone": "0761231234",
+    "epost": "Arla@gmail.com"
+  },
+  {
+    "supplierName": "Skånemejerier",
+    "supplierAdress": "Östergatan 33",
+    "supplierCity": "Landskrona",
+    "supplierPostalcode": "26134",
+    "contactperson": "Mohammed Hadrous",
+    "phone": "0761111111",
+    "epost": "Skånemejerier@gmail.com"
+  },
+  {
+    "supplierName": "Pågen",
+    "supplierAdress": "Landskronavägen 33",
+    "supplierCity": "Helsingborg",
+    "supplierPostalcode": "21544",
+    "contactperson": "Jusuf Talic",
+    "phone": "0761122334",
+    "epost": "Pågen@gmail.com"
+  },
+  {
+    "supplierName": "Balkan Products",
+    "supplierAdress": "Häljarpsvägen 42",
+    "supplierCity": "Häljarp",
+    "supplierPostalcode": "26174",
+    "contactperson": "Suljo Smahic",
+    "phone": "0769999999",
+    "epost": "BalkanProducts@gmail.com"
+  }
+]

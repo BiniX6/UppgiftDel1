@@ -1,0 +1,102 @@
+[
+  {
+    "supplierId": 1,
+    "productId": 1,
+    "price": 25.50
+  },
+  {
+    "supplierId": 2,
+    "productId": 1,
+    "price": 26
+  },
+  {
+    "supplierId": 3,
+    "productId": 1,
+    "price": 25
+  },
+  {
+    "supplierId": 4,
+    "productId": 1,
+    "price": 23.5
+  },
+  {
+    "supplierId": 1,
+    "productId": 2,
+    "price": 18.90
+  },
+  {
+    "supplierId": 2,
+    "productId": 2,
+    "price": 17
+  },
+  {
+    "supplierId": 3,
+    "productId": 2,
+    "price": 16.50
+  },
+  {
+    "supplierId": 4,
+    "productId": 2,
+    "price": 16.90
+  },
+  {
+    "supplierId": 1,
+    "productId": 3,
+    "price": 16.90
+  },
+  {
+    "supplierId": 2,
+    "productId": 3,
+    "price": 19
+  },
+  {
+    "supplierId": 3,
+    "productId": 3,
+    "price": 17.65
+  },
+  {
+    "supplierId": 4,
+    "productId": 3,
+    "price": 17
+  },
+  {
+    "supplierId": 1,
+    "productId": 4,
+    "price": 14.30
+  },
+  {
+    "supplierId": 2,
+    "productId": 4,
+    "price": 15
+  },
+  {
+    "supplierId": 3,
+    "productId": 4,
+    "price": 14.30
+  },
+  {
+    "supplierId": 4,
+    "productId": 4,
+    "price": 15.50
+  },
+  {
+    "supplierId": 1,
+    "productId": 5,
+    "price": 40.50
+  },
+  {
+    "supplierId": 2,
+    "productId": 5,
+    "price": 38
+  },
+  {
+    "supplierId": 3,
+    "productId": 5,
+    "price": 44
+  },
+  {
+    "supplierId": 4,
+    "productId": 5,
+    "price": 42.90
+  }
+]

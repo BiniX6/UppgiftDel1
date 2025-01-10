@@ -1,0 +1,27 @@
+[
+  {
+    "itemNumber": "AA111",
+    "productName": "Socker",
+    "description": "Superviktig information om socker....."
+  },
+  {
+    "itemNumber": "BB222",
+    "productName": "Smör",
+    "description": "Superviktig information om smör....."
+  },
+  {
+    "itemNumber": "CC333",
+    "productName": "Mjöl",
+    "description": "Superviktig information om mjöl....."
+  },
+  {
+    "itemNumber": "DD444",
+    "productName": "Mjölk",
+    "description": "Superviktig information om mjölk....."
+  },
+  {
+    "itemNumber": "EE555",
+    "productName": "Choklad",
+    "description": "Superviktig information om choklad....."
+  }
+]
