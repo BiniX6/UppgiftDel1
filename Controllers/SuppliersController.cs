@@ -37,7 +37,7 @@ public class SuppliersController(DataContext context) : ControllerBase
     }
 
     [HttpGet("{id}")]
-    public async Task<ActionResult> ListAllSuppliers(int id)
+    public async Task<ActionResult> FindSpecificSupplier(int id)
     {
         var suppliers = await _context.Suppliers
           .Where(s => s.SupplierId == id)
